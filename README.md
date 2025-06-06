@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Se quiser entrar em contato comigo, essas são as minhas redes sociais!
  
 <div> 
  <a href="https://discord.com/users/joaojohnc_97340" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
